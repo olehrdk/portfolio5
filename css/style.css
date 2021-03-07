@@ -1148,7 +1148,7 @@ body {
 	text-align: center;
 	width: 70%;
 }
-@media (max-width: 736px) and (min-width: 360px) and (orientation: landscape) {
+@media (max-width: 736px) and (min-width: 359px) and (orientation: landscape) {
 	.device-notification {
 		display: flex;
 	}
